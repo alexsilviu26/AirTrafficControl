@@ -1,6 +1,4 @@
-    Nicolăescu Alexandru-Valentin - 324CB
 
-                        README Tema 2
                      Air Traffic Control
 
         Introducere
